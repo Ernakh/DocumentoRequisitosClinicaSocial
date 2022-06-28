@@ -12,7 +12,8 @@ O repositório inclui:
 
     
 Professor:
-- Fabrício Tonetto Londero    
+- Fabrício Tonetto Londero  
+  
 Alunos:  
 - Diego Luan Ferreira da Silva  
 - Douglas Friedrich Charão  
