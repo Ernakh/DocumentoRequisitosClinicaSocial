@@ -3,7 +3,7 @@ Projeto extensionista da disciplina de Engenharia e Requisitos de Software do cu
 
 O repositório inclui:  
 - Documento de Requisitos  
-- Requisitos Funcionais e Não FUncionais  
+- Requisitos Funcionais e Não Funcionais  
 - Diagramas de Casos de uso  
 - Descritivo de Casos de Uso  
 - Diagramas de Atividades  
