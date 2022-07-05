@@ -1,4 +1,4 @@
-# Documento de Requisitos -> ClinicaSocial  
+# Documento de Requisitos -> Clínica Social  
 Projeto extensionista da disciplina de Engenharia e Requisitos de Software do curso de Ciência da Computação da UFN (2022-1)    
 
 O repositório inclui:  
